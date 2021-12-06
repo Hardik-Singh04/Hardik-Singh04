@@ -8,7 +8,7 @@
 
 - 💬 Ask me about *C ,C++ ,Java ,Python*
 
-- 📫 How to reach me *hardikmanderwal04@gmail.com*
+- 📫 How to reach me : *hardikmanderwal04@gmail.com*
 <br>
 
 
