@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hardik-Singh04&label=Profile%20views&color=0e75b6&style=flat" alt="Hardik-Singh04" /> </p>
 
-- 🌱 I’m doing *B.Tech from CSE ,<br>    from Graphic era hill university, Dehradun, Uttarakhand*
+- 🌱 I’m doing *B.Tech from CSE ,<br>    from Graphic Era Hill University, Dehradun, Uttarakhand*
 
 - 💬 Ask me about *C,C++,Java*
 
