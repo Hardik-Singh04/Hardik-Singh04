@@ -6,7 +6,7 @@
 
 - 🌱 I’m doing *B.Tech from CSE ,<br>    from Graphic Era Hill University, Dehradun, Uttarakhand*
 
-- 💬 Ask me about *C,C++,Java*
+- 💬 Ask me about *C,C++,Java,Python*
 
 - 📫 How to reach me *hardikmanderwal04@gmail.com*
 <br>
