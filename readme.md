@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hardik-Singh04&label=Profile%20views&color=0e75b6&style=flat" alt="Hardik-Singh04" /> </p>
 
-- 🌱 I’m doing *Bachelor Of Technology (Computer Science Engineering) :-    From Graphic Era Hill University, Dehradun, Uttarakhand*
+- 🌱 I’m doing *Bachelor Of Technology (Computer Science Engineering) :-   From Graphic Era Hill University, Dehradun, Uttarakhand*
 
 - 💬 Ask me about *C ,C++ ,Java ,Python*
 
